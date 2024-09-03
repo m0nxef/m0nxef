@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm a skilled Bukkit Java developer specializing in creating minigames. 🎮<br>I have extensive experience in developing 1.8.8 PvP games, <br>but that doesn't mean I'm not proficient in modern Minecraft versions. ⛏️<br>I'm currently working on the TrapMC Network. 🌐
+Hello! 👋 I'm a skilled Bukkit Java developer specializing in creating minigames. 🎮<br>I have extensive experience in developing 1.8.8 PvP games, <br>but that doesn't mean I'm not proficient in modern Minecraft versions. ⛏️<br>also I'm currently working on the TrapMC Network. 🌐
 
 
 ## 🌐 Socials:
